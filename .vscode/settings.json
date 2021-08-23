@@ -1,0 +1,13 @@
+{
+  "python.pythonPath": "auth_api/python/.venv/bin/python",
+  "python.testing.unittestArgs": [
+    "-v",
+    "-s",
+    "./auth_api/python",
+    "-p",
+    "tests.py"
+  ],
+  "python.testing.pytestEnabled": false,
+  "python.testing.nosetestsEnabled": false,
+  "python.testing.unittestEnabled": true
+}

@@ -49,6 +49,7 @@ provision/.ssh
 # Python
 __pycache__/
 *.py[cod]
+auth_api/python/.venv/
 
 # Provision
 provision/.*/*
